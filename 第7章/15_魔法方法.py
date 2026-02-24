@@ -41,4 +41,3 @@ p2 = Person('李四', 22, '男')
 # print(p1 > p2)
 # print(p1 == p2)
 print(p1.address)
-

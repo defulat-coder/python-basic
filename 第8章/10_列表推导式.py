@@ -40,4 +40,4 @@
 names = ['张三', '李四', '王五']
 # Python中没有元组推导式，下面这种写法叫：生成器（后面会仔细讲）
 result = (n + '！' for n in names)
-print(list(result))
+print(result)
